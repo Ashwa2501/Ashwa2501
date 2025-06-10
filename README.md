@@ -1,5 +1,5 @@
-<img src="https://github.com/Ashwa2501/Ashwa2501/blob/main/banner.png?raw=true" alt="Ashwa2501 Banner" style="width:100%;"/>
-# Hi 👋, I'm Ashwani “Herobrine”
+
+# Hi 👋, I'm Ashwa
 🎮 Game Dev | 📱 App Dev | 🎥 YouTuber
 
 ## 👋 About Me
