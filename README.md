@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Ashwa
+# Hi 👋, I'm Ashu
 🎮 Game Dev | 📱 App Dev | 🎥 YouTuber
 
 ## 👋 About Me
